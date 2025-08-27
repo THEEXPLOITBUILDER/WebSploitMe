@@ -1,4 +1,4 @@
-# WebSploitMe
+# WebSpl🌐it
 Introducing a Brand New iOS 10 Jailbreak by THEEXPLOITBUILDER: WebSpl🌐it
 
 We're excited to announce WebSpl🌐it, a groundbreaking new jailbreak for iOS 10, created by the talented developer THEEXPLOITBUILDER. Designed with simplicity, speed, and security in mind, WebSpl🌐it offers users a seamless and reliable way to liberate their iOS 10 devices from Apple's restrictions.
